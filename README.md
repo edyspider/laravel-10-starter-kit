@@ -14,7 +14,7 @@
 
 ## Installation
 
-- ```composer create-project --prefer-dist edyspider/laravel-10-starter-kit```.
+- ```composer create-project edyspider/laravel-10-starter-kit```.
 - Run ```php artisan key:generate```.
 - Edit database connection in ```.env``` if needed.
 - Run ```php artisan migrate```
