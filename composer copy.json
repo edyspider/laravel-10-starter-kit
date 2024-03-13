@@ -2,7 +2,7 @@
     "name": "edyspider/laravel-10-starter-kit",
     "description": "Laravel 10 starter project with Livewire and authentication capability.",
     "keywords": ["laravel", "livewire"],
-    "license": "MIT",
+    "logo": "",
     "type": "project",
     "require": {
         "php": "^8.1",
