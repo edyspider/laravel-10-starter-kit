@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
-        <img src="[./storage/app/public/img/LaravelStarterKit_banner.png](https://github.com/edyspider/laravel-10-starter-kit/blob/main/public/LaravelStarterKit_banner.png?raw=true)" width="400" alt="Laravel Starter Kit Logo">
+        <img src="https://github.com/edyspider/laravel-10-starter-kit/blob/main/public/LaravelStarterKit_banner.png?raw=true" width="400" alt="Laravel Starter Kit Logo">
     </a>
 </p>
 
