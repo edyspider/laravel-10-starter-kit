@@ -1,9 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "edyspider/laravel-10-starter-kit",
+    "description": "Laravel 10 starter project with Livewire and authentication capability.",
+    "keywords": ["laravel", "livewire"],
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
@@ -64,6 +63,5 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "minimum-stability": "dev"
 }
