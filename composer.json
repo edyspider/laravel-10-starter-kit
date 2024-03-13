@@ -64,5 +64,5 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
