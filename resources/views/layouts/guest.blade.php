@@ -14,15 +14,9 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-sans antialiased text-gray-900">
-        <div class="flex flex-col items-center min-h-screen pt-6 bg-gray-100 sm:justify-center sm:pt-0 dark:bg-gray-900">
-            <div>
-                <a href="/" wire:navigate>
-                    <x-application-logo class="w-20 h-20 text-gray-100 fill-current" />
-                </a>
-            </div>
-
-            <div class="w-full px-6 py-4 mt-6 overflow-hidden bg-white shadow-md sm:max-w-md dark:bg-gray-800 sm:rounded-lg">
+    <body class="font-sans antialiased text-gray-900 bg-white dark:text-white dark:bg-gray-900">
+        <div class="py-0">
+            <div class="mx-auto space-y-0 max-w-7xl sm:px-6 lg:px-8">
                 {{ $slot }}
             </div>
         </div>
