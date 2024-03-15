@@ -11,6 +11,7 @@
 - [Laravel 10](https://laravel.com/)
 - [Login + Registration Verification](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)
 - [Livewire](https://livewire.laravel.com/)
+- [TailwindCSS with Dark Support](https://tailwindcss.com/)
 
 ## Installation
 
